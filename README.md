@@ -1,5 +1,5 @@
 # ✈️ British Airways Data Science Virtual Experience – Forage
-A data science project completed as part of the British Airways Job Simulation on Forage (May 2025). This project simulates real-world airline business challenges and demonstrates how data science can support customer experience, operational decisions, and targeted marketing.
+A data science project completed as part of the British Airways Job Simulation on Forage. This project simulates real-world airline business challenges and demonstrates how data science can support customer experience, operational decisions, and targeted marketing.
 
 📌 Project Overview
 The objective of this simulation was to analyze customer behavior and use predictive modeling to help British Airways optimize lounge usage and improve marketing strategies.
