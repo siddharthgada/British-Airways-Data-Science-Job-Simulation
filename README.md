@@ -6,7 +6,7 @@ A data science project completed as part of the British Airways Job Simulation o
 📌 Project Overview
 The objective of this simulation was to analyze customer behavior and use predictive modeling to help British Airways optimize lounge usage and improve marketing strategies.
 
-📂 Project Breakdown
+📂 Project Breakdown <br>
 Part 1: 🧾 Lounge Occupancy Estimation (Excel)
 Objective: Estimate how many passengers are likely to use airport lounges based on flight types and eligibility criteria.
 
