@@ -13,10 +13,12 @@ Objective: Estimate how many passengers are likely to use airport lounges based 
 Steps:
   - Categorized flights using pivot tables based on route type, destination region, and time of day.
   - Applied estimated eligibility percentages across categories to forecast lounge usage.
+  - Sliced the dataset to select a subset of data. Selected data only related to flights to USA and Europe.
 
 Output:
   - Excel file with clearly structured categories and forecasted usage
   - Recommendations for reallocating lounge capacity to better match expected demand
+  - The dataset file has the Pivot Table for better readability on the Flights to USA and Europe Sheet
 
 Task 2: 🤖 Predicting Holiday Bookings (Machine Learning)
 Objective: Predict which customers are likely to book a holiday to support targeted marketing.
