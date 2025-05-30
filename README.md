@@ -30,7 +30,7 @@ Steps:
 
 Results:
   - Model Accuracy: 85%
-  - Top Features: Purchase Lead (Time between the purchase and departure)
+  - Top Feature: Purchase Lead (Time between the purchase and departure)
   - Created a PowerPoint slide to present results and business implications for manager
 
   📊 Technologies Used:
