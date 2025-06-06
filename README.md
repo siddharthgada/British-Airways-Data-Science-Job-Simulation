@@ -54,5 +54,5 @@ Results:
     ## 👤 Author
 
 **Siddharth Gada**  
-📧 Email: gadasiddharth@gmail.com 
+📧 Email: gadasiddharth@gmail.com <br>
 🔗 LinkedIn: https://www.linkedin.com/in/siddharthgada/
