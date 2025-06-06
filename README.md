@@ -55,4 +55,4 @@ Results:
 
 **Siddharth Gada**  
 📧 Email: gadasiddharth@gmail.com 
-🔗 LinkedIn: [[your-link]  ](https://www.linkedin.com/in/siddharthgada/)
+🔗 LinkedIn: https://www.linkedin.com/in/siddharthgada/
