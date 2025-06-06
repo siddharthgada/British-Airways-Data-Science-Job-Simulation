@@ -50,3 +50,9 @@ Results:
 
 ✅ Recommendations:
   - I suggest adding more customer-centric features to improve recall and capture more potential bookers for proactive outreach.<br>
+
+    ## 👤 Author
+
+**Siddharth Gada**  
+📧 Email: gadasiddharth@gmail.com 
+🔗 LinkedIn: [[your-link]  ](https://www.linkedin.com/in/siddharthgada/)
